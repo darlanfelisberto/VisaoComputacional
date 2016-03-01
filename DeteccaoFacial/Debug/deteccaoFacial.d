@@ -1,0 +1,1 @@
+deteccaoFacial.o: ../deteccaoFacial.cpp
